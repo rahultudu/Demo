@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1092700304919",
+    "firebase_url": "https://fir-c91e5.firebaseio.com",
+    "project_id": "fir-c91e5",
+    "storage_bucket": "fir-c91e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092700304919:android:fd2a26679b7556db",
+        "android_client_info": {
+          "package_name": "com.example.rahultudu.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092700304919-fhf9aul95430u5sqiibhplo1121ealn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmWR2yBe7uLcHF_Qbnjz5lNpVObvE6iV4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

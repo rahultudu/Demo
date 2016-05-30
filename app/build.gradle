@@ -1,5 +1,8 @@
 apply plugin: 'com.android.application'
-
+buildscript{
+    java.util.Properties properties = new Properties();
+    properties.load(project.rootProject.file('local.properties').newDataInputStream())
+}
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.3"

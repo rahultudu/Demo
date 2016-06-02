@@ -32,7 +32,7 @@ public class Choice extends AppCompatActivity {
         final Bundle Report = new Bundle();
 
         //for radiogroup
-        final RadioGroup _RadioGroup = (RadioGroup) findViewById(R.id.RadioGroup);
+        final RadioGroup _RadioGroup__ = (RadioGroup) findViewById(R.id.RadioGroup);
 
         //for radio buttons
         final RadioButton _Pizza = (RadioButton) findViewById(R.id.Pizza);
